@@ -11,3 +11,12 @@ del programa, mientras que el intérprete interactivo nos permite ingresar
 comandos y obtener una respuesta inmediata, sin tener que modificar el
 archivo y posteriormente ejecutar el intérprete. De esta manera, como
 Ruby siempre devuelve algo, en el caso de Hello World nos devuelve un nulo.
+
+¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con
+el intérprete interactivo y con PRY?
+Ambos son interpretes interactivos, y ambos buscan el mismo fin, pero en el
+caso de IRB, este viene instalado por defecto y comienza con la ejecución del
+programa, mientras que PRY tendremos que instalarlo y solamente funcionará en
+el momento del programa en el que le llamemos. Con IRB no sale formateado y 
+con PRY sí.
+
